@@ -10,3 +10,6 @@
 [submodule "hardhat-simple-storage"]
 	path = hardhat-simple-storage
 	url = https://github.com/gayashan4lk/hardhat-simple-storage
+[submodule "dapp-truffle-drizzle-basics"]
+	path = dapp-truffle-drizzle-basics
+	url = git@github.com:gayashan4lk/dapp-truffle-drizzle-basics.git
