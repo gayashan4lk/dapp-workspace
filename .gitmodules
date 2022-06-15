@@ -13,3 +13,21 @@
 [submodule "dapp-truffle-drizzle-basics"]
 	path = dapp-truffle-drizzle-basics
 	url = git@github.com:gayashan4lk/dapp-truffle-drizzle-basics.git
+[submodule "blockchain-kyc"]
+	path = blockchain-kyc
+	url = git@github.com:gayashan4lk/blockchain-kyc.git
+[submodule "solidity-syntax"]
+	path = solidity-syntax
+	url = git@github.com:gayashan4lk/solidity-syntax.git
+[submodule "blockchain-supplychain-dapp"]
+	path = blockchain-supplychain-dapp
+	url = git@github.com:gayashan4lk/blockchain-supplychain-dapp.git
+[submodule "blockchain-test-projects"]
+	path = blockchain-test-projects
+	url = git@github.com:gayashan4lk/blockchain-test-projects.git
+[submodule "blockchain-notes"]
+	path = blockchain-notes
+	url = git@github.com:gayashan4lk/blockchain-notes.git
+[submodule "blockchain-basics-python"]
+	path = blockchain-basics-python
+	url = git@github.com:gayashan4lk/blockchain-basics-python.git
