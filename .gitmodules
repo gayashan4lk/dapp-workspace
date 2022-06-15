@@ -1,0 +1,12 @@
+[submodule "ethers-simple-storage"]
+	path = ethers-simple-storage
+	url = https://github.com/gayashan4lk/ethers-simple-storage
+[submodule "hardhat-fund-me"]
+	path = hardhat-fund-me
+	url = https://github.com/gayashan4lk/hardhat-fund-me
+[submodule "web3-fund-me-ui"]
+	path = web3-fund-me-ui
+	url = https://github.com/gayashan4lk/web3-fund-me-ui
+[submodule "hardhat-simple-storage"]
+	path = hardhat-simple-storage
+	url = https://github.com/gayashan4lk/hardhat-simple-storage
