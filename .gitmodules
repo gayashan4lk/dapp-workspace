@@ -31,3 +31,6 @@
 [submodule "blockchain-basics-python"]
 	path = blockchain-basics-python
 	url = git@github.com:gayashan4lk/blockchain-basics-python.git
+[submodule "hardhat-smartcontract-lottery"]
+	path = hardhat-smartcontract-lottery
+	url = git@github.com:gayashan4lk/hardhat-smartcontract-lottery.git
