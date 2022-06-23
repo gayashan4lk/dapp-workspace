@@ -34,3 +34,6 @@
 [submodule "hardhat-smartcontract-lottery"]
 	path = hardhat-smartcontract-lottery
 	url = git@github.com:gayashan4lk/hardhat-smartcontract-lottery.git
+[submodule "nextjs-dapp-lottery"]
+	path = nextjs-dapp-lottery
+	url = git@github.com:gayashan4lk/nextjs-dapp-lottery.git
