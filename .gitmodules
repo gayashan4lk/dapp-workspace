@@ -19,9 +19,9 @@
 [submodule "solidity-syntax"]
 	path = solidity-syntax
 	url = git@github.com:gayashan4lk/solidity-syntax.git
-[submodule "blockchain-supplychain-dapp"]
-	path = blockchain-supplychain-dapp
-	url = git@github.com:gayashan4lk/blockchain-supplychain-dapp.git
+[submodule "truffle-supplychain"]
+	path = truffle-supplychain
+	url = git@github.com:gayashan4lk/truffle-supplychain.git
 [submodule "blockchain-test-projects"]
 	path = blockchain-test-projects
 	url = git@github.com:gayashan4lk/blockchain-test-projects.git
